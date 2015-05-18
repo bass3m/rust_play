@@ -3,4 +3,4 @@ rand = "0.3.0"
 [package]
 name = "philo"
 version = "0.1.0"
-authors = ["Bassem Youssef <bassem@kumunetworks.com>"]
+authors = ["bass3m"]
